@@ -6,6 +6,8 @@
 
 <p align="left">
     <b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.</br>
+    <a href="https://react.dev" name="ReactJS" ><img src="https://img.icons8.com/officel/48/null/react.png"/></a>
+    <a href="https://spring.io" name="Spring Boot" ><img src="https://img.icons8.com/color/48/null/spring-logo.png"/></a>
     <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
